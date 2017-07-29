@@ -1,2 +1,2 @@
 # BreakoutGame
-Breakout game made using javascript and HTML cancvas.
+Breakout game made using javascript and HTML canvas.
